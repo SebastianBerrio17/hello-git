@@ -1,0 +1,1 @@
+print("Que dice el socio")
